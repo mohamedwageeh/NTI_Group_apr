@@ -1,0 +1,21 @@
+HAL/DC_MOTOR/DC_MOTOR.d HAL/DC_MOTOR/DC_MOTOR.o: \
+ ../HAL/DC_MOTOR/DC_MOTOR.c ../HAL/DC_MOTOR/DC_MOTOR.h \
+ ../HAL/DC_MOTOR/DC_MOTOR_CFG.h ../MCAL/Timer_0/Timer_0.h \
+ ../MCAL/Timer_0/Timer_0_CFG.h ../APP/LIB/BIT_MATH.h ../APP/LIB/STD.h \
+ ../MCAL/REG.h ../MCAL/DIO/DIO.h
+
+../HAL/DC_MOTOR/DC_MOTOR.h:
+
+../HAL/DC_MOTOR/DC_MOTOR_CFG.h:
+
+../MCAL/Timer_0/Timer_0.h:
+
+../MCAL/Timer_0/Timer_0_CFG.h:
+
+../APP/LIB/BIT_MATH.h:
+
+../APP/LIB/STD.h:
+
+../MCAL/REG.h:
+
+../MCAL/DIO/DIO.h:

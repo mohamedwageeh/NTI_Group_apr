@@ -1,0 +1,13 @@
+MCAL/I2C/I2C.d MCAL/I2C/I2C.o: ../MCAL/I2C/I2C.c ../MCAL/I2C/I2C.h \
+ ../MCAL/I2C/I2C_CFG.h ../APP/LIB/BIT_MATH.h ../APP/LIB/STD.h \
+ ../MCAL/REG.h
+
+../MCAL/I2C/I2C.h:
+
+../MCAL/I2C/I2C_CFG.h:
+
+../APP/LIB/BIT_MATH.h:
+
+../APP/LIB/STD.h:
+
+../MCAL/REG.h:
